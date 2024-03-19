@@ -1,0 +1,7 @@
+[workspace.lints.rust]
+unsafe_code = "forbid"
+# useused = "allow"
+
+[workspace]
+resolver = "2"
+members = ["crates/core", "crates/easy/1_two_sum"]
