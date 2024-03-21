@@ -9,3 +9,7 @@ edition = "2021"
 
 [lints]
 workspace = true
+
+[lib]
+doctest = false
+
