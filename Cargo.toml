@@ -11,4 +11,5 @@ members = [
     "crates/easy/66_plus_one",
     "crates/easy/67_add_binary",
     "crates/easy/69_sqrtx",
+    "crates/easy/70_climbing_stairs",
 ]
