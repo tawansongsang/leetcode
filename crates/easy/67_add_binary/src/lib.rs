@@ -8,7 +8,7 @@ pub fn add_binary(a: String, b: String) -> String {
     let max_length = std::cmp::max(a_vec_deque.len(), b_vec_deque.len());
     let mut output_vec_deque: VecDeque<char> = VecDeque::new();
     let mut carry = false;
-    for i in 0..max_length {
+    for _ in 0..max_length {
         let current_a = a_iter.next_back().unwrap_or(&'0');
         let current_b = b_iter.next_back().unwrap_or(&'0');
 
