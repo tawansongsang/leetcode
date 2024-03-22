@@ -9,4 +9,5 @@ members = [
     "crates/easy/1_two_sum",
     "crates/easy/58_length_of_last_word",
     "crates/easy/66_plus_one",
+    "crates/easy/67_add_binary",
 ]
