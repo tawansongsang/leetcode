@@ -16,4 +16,5 @@ members = [
     "crates/easy/88_merge_sorted_array",
     "crates/easy/94_binary_tree_inorder_traversal",
     "crates/easy/100_same_tree",
+    "crates/easy/101_symmetric_tree",
 ]
