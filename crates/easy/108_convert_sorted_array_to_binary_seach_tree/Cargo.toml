@@ -1,0 +1,9 @@
+[package]
+name = "convert_sorted_array_to_binary_seach_tree"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lints]
+workspace = true
