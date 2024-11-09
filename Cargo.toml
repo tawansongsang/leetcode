@@ -20,4 +20,5 @@ members = [
     "crates/easy/104_maximum_depth_of_binary_tree",
     "crates/easy/108_convert_sorted_array_to_binary_seach_tree",
     "crates/easy/110_balanced_binary_tree",
+    "crates/easy/111_minimum_depth_of_binary",
 ]

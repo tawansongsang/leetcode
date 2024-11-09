@@ -1,0 +1,9 @@
+[package]
+name = "minimum_depth_of_binary"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lints]
+workspace = true
