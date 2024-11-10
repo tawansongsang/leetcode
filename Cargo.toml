@@ -23,4 +23,5 @@ members = [
     "crates/easy/111_minimum_depth_of_binary",
     "crates/easy/112_path_sum",
     "crates/easy/118_pascal_triangle",
+    "crates/easy/119_pascal_triangle_2",
 ]
