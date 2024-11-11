@@ -24,4 +24,5 @@ members = [
     "crates/easy/112_path_sum",
     "crates/easy/118_pascal_triangle",
     "crates/easy/119_pascal_triangle_2",
+    "crates/easy/121_best_time_to_buy_and_sell_stock",
 ]
