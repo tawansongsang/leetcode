@@ -27,4 +27,5 @@ members = [
     "crates/easy/121_best_time_to_buy_and_sell_stock",
     "crates/easy/125_valid_palindrome",
     "crates/easy/136_single_number",
+    "crates/easy/144_binary_tree_preorder_traversal",
 ]
