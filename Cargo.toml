@@ -29,4 +29,5 @@ members = [
     "crates/easy/136_single_number",
     "crates/easy/144_binary_tree_preorder_traversal",
     "crates/easy/145_binary_tree_postorder_traversal",
+    "crates/easy/168_excel_sheet_column_title",
 ]
