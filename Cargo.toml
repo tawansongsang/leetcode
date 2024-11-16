@@ -28,4 +28,5 @@ members = [
     "crates/easy/125_valid_palindrome",
     "crates/easy/136_single_number",
     "crates/easy/144_binary_tree_preorder_traversal",
+    "crates/easy/145_binary_tree_postorder_traversal",
 ]
