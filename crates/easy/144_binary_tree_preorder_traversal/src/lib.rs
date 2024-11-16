@@ -1,4 +1,5 @@
 use std::cell::RefCell;
+use std::collections::VecDeque;
 use std::rc::Rc;
 
 #[derive(Debug, PartialEq, Eq)]
@@ -24,7 +25,29 @@ struct Solution;
 #[allow(unused)]
 impl Solution {
     pub fn preorder_traversal(root: Option<Rc<RefCell<TreeNode>>>) -> Vec<i32> {
-        todo!()
+        let mut ret: Vec<i32> = Vec::new();
+        if root.is_none() {
+            return ret;
+        }
+
+        let mut traversals: VecDeque<Rc<RefCell<TreeNode>>> = VecDeque::new();
+        if let Some(node) = root {
+            traversals.push_front(node.clone());
+        }
+
+        while let Some(node) = traversals.pop_front() {
+            ret.push(node.borrow().val);
+
+            if let Some(r_node) = node.borrow().right.clone() {
+                traversals.push_front(r_node);
+            }
+
+            if let Some(l_node) = node.borrow().left.clone() {
+                traversals.push_front(l_node);
+            }
+        }
+
+        ret
     }
 }
 
