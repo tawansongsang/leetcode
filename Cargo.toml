@@ -36,4 +36,5 @@ members = [
     "crates/easy/191_number_of_one_bits",
     "crates/easy/202_happy_number",
     "crates/easy/203_remove_linked_list_elements",
+    "crates/easy/205_isomorphic_strings",
 ]
