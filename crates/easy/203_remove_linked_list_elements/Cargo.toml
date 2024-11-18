@@ -1,0 +1,9 @@
+[package]
+name = "remove_linked_list_elements"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lints]
+workspace = true
