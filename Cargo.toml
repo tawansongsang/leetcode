@@ -39,4 +39,5 @@ members = [
     "crates/easy/205_isomorphic_strings",
     "crates/easy/206_reverse_linked_list",
     "crates/easy/217_contains_duplicate",
+    "crates/easy/219_contains_duplicate_ii",
 ]
