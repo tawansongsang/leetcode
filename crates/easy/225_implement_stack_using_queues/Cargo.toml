@@ -1,0 +1,9 @@
+[package]
+name = "implement_stack_using_queues"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lints]
+workspace = true
