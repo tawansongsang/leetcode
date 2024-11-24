@@ -42,4 +42,5 @@ members = [
     "crates/easy/219_contains_duplicate_ii",
     "crates/easy/222_count_complete_tree_nodes",
     "crates/easy/225_implement_stack_using_queues",
+    "crates/easy/226_invert_binary_tree",
 ]
