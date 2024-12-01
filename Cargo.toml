@@ -45,4 +45,5 @@ members = [
     "crates/easy/226_invert_binary_tree",
     "crates/easy/228_summary_ranges",
     "crates/easy/231_power_of_two",
+    "crates/easy/232_implement_queue_using_stacks",
 ]
