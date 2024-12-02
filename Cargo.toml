@@ -46,4 +46,5 @@ members = [
     "crates/easy/228_summary_ranges",
     "crates/easy/231_power_of_two",
     "crates/easy/232_implement_queue_using_stacks",
+    "crates/easy/234_palindrome_linked_list",
 ]
