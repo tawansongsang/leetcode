@@ -49,4 +49,5 @@ members = [
     "crates/easy/234_palindrome_linked_list",
     "crates/easy/242_valid_anagram",
     "crates/easy/257_binary_tree_paths",
+    "crates/easy/258_add_digits",
 ]
