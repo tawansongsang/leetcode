@@ -51,4 +51,5 @@ members = [
     "crates/easy/257_binary_tree_paths",
     "crates/easy/258_add_digits",
     "crates/easy/263_ugly_number",
+    "crates/easy/268_missing_number",
 ]
