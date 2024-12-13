@@ -56,4 +56,5 @@ members = [
     "crates/easy/283_move_zeroes",
     "crates/easy/290_word_pattern",
     "crates/easy/292_nim_game",
+    "crates/easy/303_range_sum_query_immutable",
 ]
