@@ -58,4 +58,5 @@ members = [
     "crates/easy/292_nim_game",
     "crates/easy/303_range_sum_query_immutable",
     "crates/easy/326_power_of_three",
+    "crates/easy/338_counting_bits",
 ]
