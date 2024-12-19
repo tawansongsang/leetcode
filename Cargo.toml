@@ -60,4 +60,5 @@ members = [
     "crates/easy/326_power_of_three",
     "crates/easy/338_counting_bits",
     "crates/easy/342_power_of_four",
+    "crates/easy/344_reverse_string",
 ]
