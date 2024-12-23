@@ -62,4 +62,5 @@ members = [
     "crates/easy/342_power_of_four",
     "crates/easy/344_reverse_string",
     "crates/easy/345_reverse_vowels_of_a_string",
+    "crates/easy/349_intersection_of_two_arrays",
 ]
