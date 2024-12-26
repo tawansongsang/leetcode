@@ -64,4 +64,5 @@ members = [
     "crates/easy/345_reverse_vowels_of_a_string",
     "crates/easy/349_intersection_of_two_arrays",
     "crates/easy/350_intersection_of_two_arrays_ii",
+    "crates/easy/367_valid_perfect_square",
 ]
