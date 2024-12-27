@@ -1,10 +1,11 @@
 {
-    "recommendations": [
-        "rust-lang.rust-analyzer",
-        "tamasfe.even-better-toml",
-        "wayou.vscode-todo-highlight",
-        "alefragnani.bookmarks",
-        "christian-kohler.path-intellisense",
-        "fill-labs.dependi"
-    ]
+  "recommendations": [
+    "rust-lang.rust-analyzer",
+    "tamasfe.even-better-toml",
+    "wayou.vscode-todo-highlight",
+    "alefragnani.bookmarks",
+    "christian-kohler.path-intellisense",
+    "fill-labs.dependi",
+    "vscodevim.vim"
+  ]
 }
