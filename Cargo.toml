@@ -66,4 +66,5 @@ members = [
     "crates/easy/350_intersection_of_two_arrays_ii",
     "crates/easy/367_valid_perfect_square",
     "crates/easy/374_guess_number_higher_or_lower",
+    "crates/easy/383_ransom_note",
 ]
