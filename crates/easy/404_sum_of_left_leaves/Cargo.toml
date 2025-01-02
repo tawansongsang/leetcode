@@ -1,0 +1,9 @@
+[package]
+name = "sum_of_left_leaves"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lints]
+workspace = true

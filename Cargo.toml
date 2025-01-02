@@ -71,4 +71,5 @@ members = [
     "crates/easy/389_find_the_difference",
     "crates/easy/392_is_subsequence",
     "crates/easy/401_binary_watch",
+    "crates/easy/404_sum_of_left_leaves",
 ]
