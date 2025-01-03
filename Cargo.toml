@@ -72,4 +72,5 @@ members = [
     "crates/easy/392_is_subsequence",
     "crates/easy/401_binary_watch",
     "crates/easy/404_sum_of_left_leaves",
+    "crates/easy/405_convert_a_number_to_hexadecimal",
 ]

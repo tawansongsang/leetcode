@@ -1,0 +1,9 @@
+[package]
+name = "convert_a_number_to_hexadecimal"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lints]
+workspace = true
